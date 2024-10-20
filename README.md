@@ -5,7 +5,7 @@ Terminalden Dosya Sıkıştırma Yazılımı. (.mp3, txt, odt, png, jpeg)
 
 **BİR [BAXREN PROJECT](https://github.com/MrBaxren/BaxrenProject) YAZILIMIDIR**
 
-**BaxrenCompressionService** yada kısa adıyla BCS, BaxrenProject kapsamında geliştirilen Linux terminali üzerinden belirtilen dosya formatlarındaki dosyaları sıkıştırmayı sağlayan bir yazılımdır. Yazılım açıldığında sizi bu yazı karşılayacak:
+**BaxrenCompressionService** yada kısa adıyla BCS, BaxrenProject kapsamında geliştirilen Linux terminali üzerinden belirtilen dosya formatlarındaki dosyaları sıkıştırmayı sağlayan açık kaynak ve özgür bir yazılımdır. Yazılım açıldığında sizi bu yazı karşılayacak:
 
 B     S     C
 
@@ -59,10 +59,10 @@ sudo zypper install git
 ```
 ## Kurulum
 ```bash
-git clone https://github.com/MrBaxren/BaxrenCompressionService).git
-python BaxrenCompressionService).py
+git clone https://github.com/MrBaxren/BaxrenCompressionService.git
+python BaxrenCompressionService.py
 ```
 EK NOTLAR: 
-Karşılaştığınız sorunları iletebilir yada kendiniz deüzeltebilirsiniz
+Karşılaştığınız sorunları iletebilir yada kendiniz deüzeltebilirsiniz.
 
 
