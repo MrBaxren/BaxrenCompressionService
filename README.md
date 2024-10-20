@@ -60,7 +60,7 @@ sudo zypper install git
 ## Kurulum
 ```bash
 git clone https://github.com/MrBaxren/BaxrenCompressionService).git
-python BaxrenCalculatorCLI.py
+python BaxrenCompressionService).py
 ```
 EK NOTLAR: 
 Karşılaştığınız sorunları iletebilir yada kendiniz deüzeltebilirsiniz
